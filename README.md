@@ -1,1 +1,1 @@
-xlauncher is repo for xlauncher (terminal games launcher). From this repo u can install games packages that help u install game to your distro and add it to xlauncher. Or packages (game installes) are under gpl 3.0 software licence. Free as in freedom.
+it is official xlauncher repository where u can install xlauncher (terminal games launcher). Works under gnome terminal so u can use it under gnome or cinnamon. Project is under gpl 3.0 licence. Free as in freedom.
